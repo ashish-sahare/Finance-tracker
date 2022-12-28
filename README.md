@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 # Finance-tracker
 
- app# Finance-tracker    hhhhshss
+ app# Finance-tracker    
